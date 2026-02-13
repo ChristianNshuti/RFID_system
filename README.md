@@ -6,7 +6,7 @@ This project implements a complete IoT solution for managing RFID card balances.
 ## 🌐 Live Application
 
 The web dashboard is accessible at the following URL:
-**[http://157.173.101.159:8261/RFID/backend-dashboard/dashboard.html](https://www.google.com/search?q=http://157.173.101.159:8261/RFID/backend-dashboard/dashboard.html)**
+**[http://157.173.101.159:8261/RFID/backend-dashboard/dashboard.html](http://157.173.101.159:8261/RFID/backend-dashboard/dashboard.html)**
 
 ---
 
